@@ -1,0 +1,14 @@
+[18-May-2019 10:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[18-May-2019 10:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[18-May-2019 10:36:46 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[18-May-2019 10:36:46 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[18-May-2019 10:37:48 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[18-May-2019 10:37:48 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[18-May-2019 10:38:27 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[18-May-2019 10:38:27 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[18-May-2019 10:40:35 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[18-May-2019 10:40:35 UTC] PHP Warning:  A non-numeric value encountered in /home/logicalh/farwa.logicalhive.com/apis/usersignup.php on line 12
+[19-May-2019 22:12:11 UTC] PHP Warning:  move_uploaded_file(files/VID-20190325-WA0001.mp4): failed to open stream: No such file or directory in /home/logicalh/farwa.logicalhive.com/apis/test.php on line 19
+[19-May-2019 22:12:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphh11VE' to 'files/VID-20190325-WA0001.mp4' in /home/logicalh/farwa.logicalhive.com/apis/test.php on line 19
+[19-May-2019 22:13:32 UTC] PHP Warning:  move_uploaded_file(files/VID-20190222-WA0023.mp4): failed to open stream: No such file or directory in /home/logicalh/farwa.logicalhive.com/apis/test.php on line 19
+[19-May-2019 22:13:32 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHxFi7D' to 'files/VID-20190222-WA0023.mp4' in /home/logicalh/farwa.logicalhive.com/apis/test.php on line 19

@@ -1,0 +1,1 @@
+[18-May-2019 16:38:12 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/logicalh/farwa.logicalhive.com/index.php on line 35
